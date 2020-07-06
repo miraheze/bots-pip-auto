@@ -7,7 +7,7 @@ start = time.time()
 # This script should not be changed without caution. 
 # It will auto-deploy 4 times a day and changes can break the auto-deploy infrastructure.
 ## WARNING ##
-repo = Git('/var/pip')
+repo = Git('/srv/pip')
 out = repo.pull('origin', 'master')
 if out == 'Already up to date.' or out == 'Already up-to-date.':
     now = datetime.now()
