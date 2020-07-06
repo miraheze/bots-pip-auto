@@ -16,3 +16,4 @@ if out == 'Already up to date.' or out == 'Already up-to-date.':
     print('[{0} - {1}] Found nothing to update in {2}s'.format(today,current_time,str(time.time()-start)[:3]))
 else:
     pipout = os.system("pip3 install -U -r /var/pip/requirements.txt")
+    print(pipout)
