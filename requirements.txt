@@ -62,7 +62,6 @@ pycodestyle==2.6.0
 pycrypto==2.6.1
 pycurl==7.43.0.2
 Pygments==2.6.1
-PyGObject==3.36.1
 PyHamcrest==2.0.2
 PyMySQL==0.9.3
 pyOpenSSL==19.0.0
