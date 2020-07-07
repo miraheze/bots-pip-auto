@@ -6,6 +6,7 @@ dist: xenial
 os: linux
 
 before_script:
+    - apt-get install libgnutls28-dev
     - pip install -U -r requirements.txt
 
 script:
