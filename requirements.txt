@@ -15,7 +15,6 @@ configparser==5.0.0
 constantly==15.1.0
 cryptography==2.9.2
 decorator==4.4.2
-distro-info==0.21
 dnspython==1.16.0
 entrypoints==0.3
 future==0.18.2
@@ -68,7 +67,6 @@ pyOpenSSL==19.0.0
 pyparsing==2.4.7
 pyRFC3339==1.1
 pytest==5.4.3
-python-apt==1.8.4.1
 python-augeas==0.5.0
 pytz==2020.1
 pyxdg==0.26
