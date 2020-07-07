@@ -13,7 +13,7 @@ ConfigArgParse==0.13.0
 configobj==5.0.6
 configparser==5.0.0
 constantly==15.1.0
-cryptography==2.6.1
+cryptography==2.9.2
 decorator==4.4.2
 distro-info==0.21
 dnspython==1.16.0
