@@ -45,7 +45,7 @@ mwclient==0.10.1
 oauth2==1.9.0.post1
 oauthlib==3.1.0
 packaging==20.4
-parsedatetime==2.4
+parsedatetime==2.6
 parso==0.7.0
 pbr==4.2.0
 pexpect==4.8.0
