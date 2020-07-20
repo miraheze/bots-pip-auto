@@ -56,7 +56,7 @@ pycodestyle==2.6.0
 pycrypto==2.6.1
 Pygments==2.6.1
 PyHamcrest==2.0.2
-PyMySQL==0.9.3
+PyMySQL==0.10.0
 pyOpenSSL==19.1.0
 pyparsing==2.4.7
 pyRFC3339==1.1
