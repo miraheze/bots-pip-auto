@@ -40,7 +40,7 @@ oauth2==1.9.0.post1
 oauthlib==3.1.0
 packaging==20.4
 parsedatetime==2.6
-parso==0.7.0
+parso==0.7.1
 pbr==5.4.5
 pexpect==4.8.0
 pickleshare==0.7.5
