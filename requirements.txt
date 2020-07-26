@@ -14,7 +14,7 @@ decorator==4.4.2
 dnspython==2.0.0
 entrypoints==0.3
 future==0.18.2
-geoip2==2.9.0
+geoip2==4.0.1
 gitdb==4.0.5
 GitPython==3.1.7
 google-api-python-client==1.7.12
@@ -72,7 +72,7 @@ SecretStorage==3.1.2
 service-identity==18.1.0
 six==1.15.0
 smmap==3.0.4
-sopel==7.0.4
+sopel==7.0.5
 sopel-modules.quotes==1.1.0
 sopel-modules.twitter==0.3.2
 sopel-modules.weather==1.2.2
