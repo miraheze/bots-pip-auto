@@ -14,7 +14,7 @@ decorator==4.4.2
 dnspython==2.0.0
 entrypoints==0.3
 future==0.18.2
-geoip2==4.0.1
+geoip2==4.0.2
 gitdb==4.0.5
 GitPython==3.1.7
 google-api-python-client==1.7.12
