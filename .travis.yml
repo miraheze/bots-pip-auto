@@ -13,6 +13,7 @@ before_script:
 
 script:
     - pip3 check
+    - pip3 freeze
 
 notifications:
   irc:
