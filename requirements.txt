@@ -1,4 +1,4 @@
-attrs==19.3.0
+attrs==20.1.0
 autopep8==1.5.4
 entrypoints==0.3
 future==0.18.2
