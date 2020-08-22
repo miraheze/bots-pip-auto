@@ -6,7 +6,7 @@ gitdb==4.0.5
 GitPython==3.1.7
 ipaddress==1.0.23
 ipython==7.17.0
-keyring==21.3.0
+keyring==21.3.1
 keyrings.alt==3.4.0
 mock==4.0.2
 MirahezeBot-Plugins==9.0.0
