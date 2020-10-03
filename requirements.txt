@@ -11,7 +11,7 @@ keyrings.alt==3.5.2
 mock==4.0.2
 MirahezeBot-Plugins==9.0.0
 pipdeptree==1.0.0
-pytest==6.1.0
+pytest==6.1.1
 pbr==5.5.0	
 pytz==2020.1
 pycrypto==2.6.1	
