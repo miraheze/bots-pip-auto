@@ -30,4 +30,4 @@ sopel-modules.youtube==0.3.2
 sopel-modules.stocks==1.1.2
 Twisted==20.3.0
 uritemplate==3.0.1
-vcrpy==4.1.0
+vcrpy==4.1.1
