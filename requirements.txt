@@ -9,7 +9,8 @@ ipython==7.18.1
 keyring==21.4.0
 keyrings.alt==4.0.0
 mock==4.0.2
-MirahezeBot-Plugins==9.0.0
+multidict==4.7.6
+MirahezeBot-Plugins==9.0.1
 pipdeptree==1.0.0
 pytest==6.1.1
 pbr==5.5.0	
@@ -31,3 +32,4 @@ sopel-modules.stocks==1.1.2
 Twisted==20.3.0
 uritemplate==3.0.1
 vcrpy==4.1.1
+yarl==1.5.1
