@@ -10,7 +10,7 @@ keyring==21.4.0
 keyrings.alt==4.0.0
 mock==4.0.2
 multidict==4.7.6
-MirahezeBot-Plugins==9.0.1
+MirahezeBot-Plugins==9.0.2
 pipdeptree==1.0.0
 pytest==6.1.1
 pbr==5.5.0	
