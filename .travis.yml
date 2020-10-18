@@ -14,7 +14,8 @@ before_script:
 script:
     - pip3 check
     - pip3 freeze
-
+after_script:
+    - pipdeptree
 notifications:
   irc:
     channels:
