@@ -13,7 +13,7 @@ multidict==4.7.6
 MirahezeBot-Plugins==9.0.2
 pipdeptree==1.0.0
 pytest==6.1.1
-pbr==5.5.0	
+pbr==5.5.1	
 pytz==2020.1
 pycrypto==2.6.1	
 Pygments==2.7.1	
