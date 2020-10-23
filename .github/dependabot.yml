@@ -4,6 +4,6 @@ updates:
     directory: "/"
     schedule:
       interval: "daily"
-   labels:
+    labels:
       - "merge when green"
       - "dependencies"
