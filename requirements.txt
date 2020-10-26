@@ -16,7 +16,7 @@ pytest==6.1.1
 pbr==5.5.1	
 pytz==2020.1
 pycrypto==2.6.1	
-Pygments==2.7.1	
+Pygments==2.7.2	
 PyMySQL==0.10.1	
 pyOpenSSL==19.1.0	
 pyRFC3339==1.1	
