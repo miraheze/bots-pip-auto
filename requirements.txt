@@ -13,7 +13,7 @@ mock==4.0.2
 multidict==5.0.0
 MirahezeBot-Plugins==9.0.2
 pipdeptree==1.0.0
-pytest==6.1.1
+pytest==6.1.2
 pbr==5.5.1	
 pytz==2020.1
 pycrypto==2.6.1	
