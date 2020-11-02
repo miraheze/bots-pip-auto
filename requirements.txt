@@ -15,7 +15,7 @@ MirahezeBot-Plugins==9.0.2
 pipdeptree==1.0.0
 pytest==6.1.2
 pbr==5.5.1	
-pytz==2020.1
+pytz==2020.4
 pycrypto==2.6.1	
 Pygments==2.7.2	
 PyMySQL==0.10.1	
