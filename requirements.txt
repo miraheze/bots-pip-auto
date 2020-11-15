@@ -11,7 +11,7 @@ keyring==21.5.0
 keyrings.alt==4.0.1
 mock==4.0.2
 multidict==5.0.0
-MirahezeBot-Plugins==9.0.2
+MirahezeBot-Plugins==9.0.3
 pipdeptree==1.0.0
 pytest==6.1.2
 pbr==5.5.1	
@@ -23,7 +23,7 @@ pyOpenSSL==19.1.0
 pyRFC3339==1.1	
 pyxdg==0.27
 service-identity==18.1.0
-sopel==7.0.6
+sopel==7.0.7
 sopel-help==0.1.0
 sopel-modules.quotes==1.2.1
 sopel-modules.twitter==0.3.2
