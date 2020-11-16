@@ -33,4 +33,4 @@ sopel-modules.stocks==1.1.2
 Twisted==20.3.0
 uritemplate==3.0.1
 vcrpy==4.1.1
-yarl==1.6.2
+yarl==1.6.3
