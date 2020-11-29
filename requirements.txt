@@ -19,7 +19,7 @@ pytz==2020.4
 pycrypto==2.6.1	
 Pygments==2.7.2	
 PyMySQL==0.10.1	
-pyOpenSSL==19.1.0	
+pyOpenSSL==20.0.0	
 pyRFC3339==1.1	
 pyxdg==0.27
 service-identity==18.1.0
