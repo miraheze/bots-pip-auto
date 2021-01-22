@@ -10,7 +10,7 @@ ipython==7.19.0
 keyring==21.8.0
 keyrings.alt==4.0.1
 mock==4.0.3
-multidict==5.0.2
+multidict==5.1.0
 MirahezeBot-Plugins==9.1.0
 pipdeptree==1.0.0
 pytest==6.2.1
