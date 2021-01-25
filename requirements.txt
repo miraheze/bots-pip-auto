@@ -7,7 +7,7 @@ gitdb==4.0.5
 GitPython==3.1.11
 ipaddress==1.0.23
 ipython==7.19.0
-keyring==21.8.0
+keyring==22.0.0
 keyrings.alt==4.0.1
 mock==4.0.3
 multidict==5.1.0
