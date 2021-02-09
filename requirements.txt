@@ -12,7 +12,7 @@ keyrings.alt==4.0.1
 mock==4.0.3
 multidict==5.1.0
 MirahezeBot-Plugins==9.1.0
-pipdeptree==1.0.0
+pipdeptree==2.0.0
 pytest==6.2.1
 pbr==5.5.1	
 pytz==2020.4
