@@ -34,3 +34,4 @@ Twisted==20.3.0
 uritemplate==3.0.1
 vcrpy==4.1.1
 yarl==1.6.3
+rsa>=4.7 # not directly required, pinned by Snyk to avoid a vulnerability
