@@ -20,6 +20,9 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y libgnutls28-dev
+          pip install -U pip
+          python --version
+          pip --version
           pip install -U -r requirements.txt
       - name: Run tests
         run: |
@@ -28,3 +31,5 @@ jobs:
       - name: Run pipdeptree
         run: |
           pipdeptree
+      - name: Check outdated
+        run: pip list --outdated
