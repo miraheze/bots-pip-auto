@@ -1,4 +1,4 @@
-ipython==7.20.0
+ipython==7.21.0
 MirahezeBot-Plugins==9.1.2
 sopel==7.0.7
 sopel-plugins.adminlist==1.0.5
