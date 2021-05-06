@@ -1,4 +1,4 @@
-ipython==7.22.0
+ipython==7.23.1
 pipdeptree==2.0.0
 pytest==6.2.3
 wheel==0.36.2
